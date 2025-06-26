@@ -1,0 +1,43 @@
+body{
+  background-color: pink;
+}
+input{
+  width: 400px;
+  height: 40px;
+  font-size: 14px;
+}
+button{
+  height: 50px;
+  width: 400px;
+  font-size: 20px;
+  font-weight: 700;
+  color: darkblue;
+  background-color: rgb(227, 224, 224);
+}
+button:hover{
+  color: white;
+  background-color: darkslateblue;
+}
+.loginbox h1{
+  text-align: center;
+
+}
+h6{
+  float: right;
+  font-size: 14px;
+}
+.signuppage{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.signupbox{
+  margin-top: 40px;
+  height: 500px;
+  width: 400px;
+  border-radius: 20px;
+  border: 2px solid whitesmoke;
+  background-color: white;
+  padding: 25px;
+  box-shadow: 10px 8px 2px grey;
+}
